@@ -1,0 +1,30 @@
+#gl-canvas {
+    display: block;
+    margin:auto;
+    margin-top: 10px;
+    border: 2px solid black;
+    background-color:#00ff00;
+}
+
+#playButton{
+    text-align:center;
+    width: 80px;
+    height: 50px;
+    display: block;
+    margin:auto;
+    margin-top: 5px;	
+    margin-bottom: 5px;	
+    font-size: 25px;
+    cursor: pointer;
+}
+
+
+#infomation{
+    width:90px;
+    height: 30px;
+    margin: auto;
+    margin-top=30px；
+    margin-bottom=1400px；
+    text-align: center;
+}
+
